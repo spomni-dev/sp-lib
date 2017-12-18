@@ -1,0 +1,11 @@
+Common:
+  o Create file structure
+  o Create test environment
+  o Develop main namespace
+  o Create namespace "bem"
+
+@namespace bem:
+  o Comment namespace "bem"
+
+@namespace assert:
+  o Comment namespace "assert"
