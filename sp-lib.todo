@@ -1,20 +1,20 @@
-Common:
-  y Create file structure @done (2017-12-18 17:01)
-  o Create test environment
-  o Develop main namespace
-  o Add namespace "bem"
-  o Add namespace "assert"
-  o Add namespace "common"
-  o Add method "exposeChildsToWindow()"
-  o Add task numbering system
+00 Common:
+  y #00-0 Create file structure @done (2017-12-18 17:01)
+  o #00-1 Create test environment
+  o #00-2 Develop main namespace
+  o #00-3 Add namespace "bem"
+  o #00-4 Add namespace "assert"
+  o #00-5 Add namespace "common"
+  o #00-6 Add method "exposeChildsToWindow()"
+  y #00-7 Add task numbering system @done (2017-12-18 19:32)
 
-@namespace bem:
-  o Comment namespace "bem"
+01 @namespace bem:
+  o #01-0 Comment namespace "bem"
 
-@namespace assert:
-  o Comment namespace "assert"
+02 @namespace assert:
+  o #02-0 Comment namespace "assert"
   
-@namespace common
-  o Comment namespace "common"
-  o Add function "includeScript()"
-  o Add function "includeStylesheet()"
+03 @namespace common
+  o #03-0 Comment namespace "common"
+  o #03-1 Add function "includeScript()"
+  o #03-2 Add function "includeStylesheet()"
