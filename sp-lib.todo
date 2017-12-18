@@ -16,3 +16,4 @@ Common:
 @namespace common
   o Comment namespace "common"
   o Add function "includeScript()"
+  o Add function "includeStylesheet()"
