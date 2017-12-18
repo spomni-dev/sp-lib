@@ -6,6 +6,7 @@ Common:
   o Add namespace "assert"
   o Add namespace "common"
   o Add method "exposeChildsToWindow()"
+  o Add task numbering system
 
 @namespace bem:
   o Comment namespace "bem"
