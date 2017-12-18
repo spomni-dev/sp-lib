@@ -5,6 +5,7 @@ Common:
   o Add namespace "bem"
   o Add namespace "assert"
   o Add namespace "common"
+  o Add method "exposeChildsToWindow()"
 
 @namespace bem:
   o Comment namespace "bem"
