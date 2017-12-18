@@ -1,6 +1,10 @@
 Common:
   o Create file structure
   o Create test environment
+    y Add tasks @done (2017-12-18 17:38)
+    o Create file structure
+    o Include mocha.js and chai.js
+    o create files for tests running
   o Develop main namespace
   o Create namespace "bem"
 
