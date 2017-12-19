@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, max-scale=2">
+  
+  <script src="./lib/include-mocha.js"></script>
+  <script> 
+    //alert("script started");
+    includeMocha({
+      specs : [ "./spec/include-mocha-spec.js" ],
+      useChai : true
+    });
+    document.addEventListener("DOMContentLoaded", function (){
+      alert("DOMContentLoaded")
+    });
+  </script>
+</head>
+
+<body>
+ <div id="mocha"></div>
+</body>
+
+</html>
